@@ -1,5 +1,4 @@
-# CS-251
-Data Structures  
+# Data Structures  
 Project 1: DNA Profiling  
 Project 2: Personality Tests  
 Project 3: Bar Chart Animation  
